@@ -2,7 +2,7 @@
 # STEP 1 OF 2
 ##########################################################################
 
-import os,copy,time
+import os,copy
 directory = os.path.dirname(os.path.abspath(__file__))
 filepath = os.path.join(directory, "input.txt")
 
